@@ -1,0 +1,24 @@
+{
+    "name": "VoiceChatStreamer",
+    "description": "An Telegram Bot To Stream Videos and Audios in Voice Chat",
+    "stack": "container",
+    "keywords": [
+      "telegram",
+      "voicechat",
+      "bot"
+    ],
+    "env": {
+      "API_ID": {
+        "description": "Your API ID from https://my.telegram.org",
+        "required": true
+      },
+      "API_HASH": {
+        "description": "Your API HASH from https://my.teleram.org",
+        "required": true
+      },
+      "SESSION": {
+        "description": "Get Pyrogram string session from https://replit.com/@AnjanaMadu/GenerateStringSession",
+        "required": true
+      }
+    }
+  }

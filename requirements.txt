@@ -1,0 +1,9 @@
+tgcrypto
+python-dotenv
+youtube_dl
+pafy
+pytube
+youtube-search-python
+asyncio
+pytgcalls==3.0.0.dev16
+git+https://github.com/pyrogram/pyrogram@master
